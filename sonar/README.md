@@ -1,3 +1,5 @@
+## Progetto svolto autonomamente in quarta superiore (2021)
+
 ## Funzionamento
 Realizzazione di un sistema di rilevamento a ultrasuoni basato su Arduino, composto da un sensore HC-SR04 e da un servomotore. Il sensore viene ruotato su un arco di 180° dal servomotore per effettuare una scansione dell’ambiente circostante.
 
