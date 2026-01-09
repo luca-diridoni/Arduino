@@ -9,3 +9,5 @@ Per ogni angolo di rotazione, il sistema misura la distanza degli ostacoli trami
 Ottenuto il tempo di volo delle onde sonore, la distanza si calcola con: velocità * tempo/2,
 - il tempo va diviso per due perchè le onde sono andate e tornate percorrendo due volte la distanza
 - la velocità del suono è circa 343 m/s
+
+- [![Video demo](https://img.youtube.com/vi/GunWbkuVzpA/0.jpg)](https://youtu.be/GunWbkuVzpA)
